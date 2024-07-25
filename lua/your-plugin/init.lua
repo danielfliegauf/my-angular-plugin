@@ -1,7 +1,7 @@
 local M = {}
 
 local function log(msg)
-	vim.api.nvim_out_write(msg .. "\n")
+	vim.api.nvim_out_write(msg .. " hellol \n")
 end
 
 function M.greet()
