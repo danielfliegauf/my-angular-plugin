@@ -15,5 +15,6 @@ end
 
 -- Call the function to notify
 M.notify_on_load()
+M.greet()
 
 return M
